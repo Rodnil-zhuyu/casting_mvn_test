@@ -12,7 +12,7 @@
 <script type="text/javascript" src="../../js/easyui-lang-zh_CN.js"></script>
 <script type="text/javascript" src="../../js/common.js"></script>
 <style type="text/css">
-	/*测试push*/
+	/*测试push 分支*/
 	.content {
 		padding: 10px 10px 10px 10px;
 	}
