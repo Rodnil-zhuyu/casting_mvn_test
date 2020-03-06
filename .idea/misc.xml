@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/casting_manager/casting_manager_service" />
+    <file type="web" url="file://$PROJECT_DIR$/casting_manager_service" />
+    <file type="web" url="file://$PROJECT_DIR$/casting_manager_web" />
+    <file type="web" url="file://$PROJECT_DIR$/casting_parent_web" />
+    <file type="web" url="file://$PROJECT_DIR$/dubbo_demo_service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/casting_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/casting_common/pom.xml" />
+        <option value="$PROJECT_DIR$/casting_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/casting_manager_pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/casting_pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/casting_manager_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/casting_manager_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/casting_manager_service/pom.xml" />
+        <option value="$PROJECT_DIR$/casting_manager_web/pom.xml" />
+        <option value="$PROJECT_DIR$/casting_parent_web/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo_demo_service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

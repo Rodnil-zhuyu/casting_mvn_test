@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/casting_common/casting_common.iml" filepath="$PROJECT_DIR$/casting_common/casting_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casting_manager/casting_manager.iml" filepath="$PROJECT_DIR$/casting_manager/casting_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casting_manager/casting_manager_dao/casting_manager_dao.iml" filepath="$PROJECT_DIR$/casting_manager/casting_manager_dao/casting_manager_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casting_manager/casting_manager_interface/casting_manager_interface.iml" filepath="$PROJECT_DIR$/casting_manager/casting_manager_interface/casting_manager_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casting_manager/casting_manager_pojo/casting_manager_pojo.iml" filepath="$PROJECT_DIR$/casting_manager/casting_manager_pojo/casting_manager_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casting_manager/casting_manager_service/casting_manager_service.iml" filepath="$PROJECT_DIR$/casting_manager/casting_manager_service/casting_manager_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casting_manager_web/casting_manager_web.iml" filepath="$PROJECT_DIR$/casting_manager_web/casting_manager_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casting_parent/casting_parent.iml" filepath="$PROJECT_DIR$/casting_parent/casting_parent.iml" />
+    </modules>
+  </component>
+</project>
